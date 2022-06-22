@@ -1,117 +1,116 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Bonjour",
+      "description": "👋 Je suis Hamza Ben Yazid. Je suis une personne ambitieuse, créative et travailleuse. Je veux contribuer à la communauté informatique. Mon rêve est de développer une solution pour un problème non résolu. Parmi les technologies maîtrisées : Spring Boot, Java, Angular, React, Docker, Jenkins ... et bien plus encore ! En outre, je suis passionné par la résolution de problèmes, le jeu d'échecs et la musique.",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "about": "A propos de moi",
+        "projects": "PROJETS",
+        "skills": "Compétences",
+        "experience": "Expériences professionnelles"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "DevOpsify",
+        "startDate": "2022",
+        "description": "Un serveur qui fournit des fonctionnalités de contrôle de version, de gestion des exigences, de construction automatisée, de test et de gestion des versions. Il couvre l'ensemble du cycle de vie des applications et permet de mettre en œuvre les fonctionnalités DevOps.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/devopsify/p0.svg",
+          "images/portfolio/devopsify/p1.png",
+          "images/portfolio/devopsify/p2.png",
+          "images/portfolio/devopsify/p3.png"
         ],
-        "url": "",
+        "url": "https://github.com/oubaydos/DevOpsify",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-spring-plain",
+            "name": "Spring Boot"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-jenkins-line",
+            "name": "Jenkins"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "Github"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Moroccan Pixels",
+        "startDate": "2022",
+        "description": "Il s'agit d'une application web qui permet aux photographes amateurs de soumettre des photos pour une distribution en ligne à un coût bien inférieur à celui des vendeurs de photos d'archives typique.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/moroccanpixels/p0.png",
+          "images/portfolio/moroccanpixels/p1.jpg"
+
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/aminetitrofine/Tsawrna/",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-spring-plain",
+            "name": "Spring Boot"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "ShareAcc",
+        "startDate": "2022",
+        "description": "Une application de partage des comptes",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/ShareAcc/p0.svg",
+          "images/portfolio/ShareAcc/p1.png"
         ],
-        "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-spring-plain",
+            "name": "Spring Boot"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Ovalsquare",
+        "title": "Stagiaire développeur JAVA ",
+        "years": "7.2021 - 8.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Spring Boot"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Spring Boot",
+          "Java",
+          "PostgreSQL",
+          "Hibernate",
+          "AWS"
         ]
       }
     ]
